@@ -1,0 +1,72 @@
+*{
+    padding: 0;
+    margin: 0;
+
+}
+
+header{
+    background-color: #1E3A89;
+    padding: 5px;
+
+}
+
+h2{
+    color: white;
+    padding: 5px;
+}
+
+nav{
+    color: white;
+    text-decoration: none;
+    margin: 5px;
+    padding: 5px;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+    margin: 5px;
+    padding: 5px;
+}
+
+.hero{
+    color: white;
+    text-align: center;
+    background-image:url(../pexels-rucasouza-1049764\ \(1\).jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 40vh;
+ 
+}
+h1{
+    background-color: rgba(0, 0, 0, 0.534);
+    border-radius: 50px;
+    line-height: 50px;
+    padding: 5px ;
+}
+
+main{
+    background-color: whitesmoke;
+    padding: 60px 60px;
+
+}
+
+section{
+    background-color: white;
+    padding: 20px;
+    margin: 20px 20px;
+    border-style: hidden;
+    border-radius: 10px;
+}
+h3{
+    color: #1E3A89;
+
+}
+
+footer{
+    background-color: #1E3A89;
+    color: white;
+    text-align: center;
+    padding: 0.5px;
+}
